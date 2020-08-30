@@ -1,0 +1,13 @@
+{
+    "2dplot": [
+        "emit_x",
+        "rms_x",
+        "charge"
+    ],
+    "coplot": [
+        "emit_x",
+        "rms_x",
+        "energy",
+        "dE"
+    ]
+}
